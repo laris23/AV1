@@ -8,10 +8,12 @@
 * Git é um software de controle de versões desenhado por Linus Torvalds, o criador do Linux.
 O propósito do Git é levar um registro de mudanças e coordenar o trabalho de várias pessoas em um repositório compartilhado.
 
-# GITHUT
+# GITHUB
 * GitHit é usando para estudo e trabalho.É uma plataforma de desenvolvimento colaborativo que aloja projetos na nuvem utilizando
-o sistema de controle de versões chamado Git. A plataforma ajuda os desenvolvedores a armazenar e administrar o código e faz o 
+o sistema de controle de versões chamado Git. A plataforma ajuda os desenvolvedores a armazenar e administrar o código e faz 
 registro de mudanças.
+
+![imagem](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.webfx.com%2Fblog%2Fmarketing%2Fwhat-is-github%2F&psig=AOvVaw2UMiuQ2cDfMuwXMOrWaqxF&ust=1712695563349000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNCDjrm-s4UDFQAAAAAdAAAAABAE)
 
 # VSCODE:
 * Vscode um editor de código-fonte autônomo que é executado no Windows, macOS e Linux. A melhor escolha para desenvolvedores JavaScript 
