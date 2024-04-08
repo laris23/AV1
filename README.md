@@ -8,7 +8,7 @@
 * Git é um software de controle de versões desenhado por Linus Torvalds, o criador do Linux.
 O propósito do Git é levar um registro de mudanças e coordenar o trabalho de várias pessoas em um repositório compartilhado.
 
-![imagem](https://programadorviking.com.br/wp-content/uploads/2019/11/o-que-%C3%A9-git.jpg)
+![imagem](https://miro.medium.com/v2/resize:fit:400/1*hX_l9M_WJkaupAwEwB7mZQ.png)
 
 # GITHUB
 * GitHit é usando para estudo e trabalho.É uma plataforma de desenvolvimento colaborativo que aloja projetos na nuvem utilizando
